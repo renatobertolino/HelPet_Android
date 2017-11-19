@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/logotemp"/>
+
+    <TextView
+        android:id="@+id/txtSpecie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Especie"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margins"
+        android:layout_marginBottom="@dimen/margins"/>
+
+    <TextView
+        android:id="@+id/txtPort"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Porte"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margins"
+        android:layout_marginBottom="@dimen/margins"/>
+
+    <TextView
+        android:id="@+id/txtColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Especie"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margins"
+        android:layout_marginBottom="@dimen/margins"/>
+
+    <Button
+        android:id="@+id/btnToAopt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:text="Adotar"
+        android:textColor="@android:color/white"
+        android:textAlignment="center"
+        android:ems="10"
+        android:layout_marginBottom="@dimen/margins"/>
+
+</LinearLayout>

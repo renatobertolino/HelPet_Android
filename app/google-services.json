@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923213773705",
+    "firebase_url": "https://helpet-android.firebaseio.com",
+    "project_id": "helpet-android",
+    "storage_bucket": "helpet-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923213773705:android:c86672f8dda05594",
+        "android_client_info": {
+          "package_name": "br.com.novaroma.helpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923213773705-4j0igc3uplb5h2f58m6n4e9p4gd4midp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.novaroma.helpet",
+            "certificate_hash": "8d3fccbef6fd763bd8d296514201a993ad18948f"
+          }
+        },
+        {
+          "client_id": "923213773705-fqpi89uoephrr40pji0p7hvb21lk9uak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMy2uEdCU8-U4Tjg4SdmxQdKEDacDjoQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923213773705-fqpi89uoephrr40pji0p7hvb21lk9uak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
